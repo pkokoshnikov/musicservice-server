@@ -14,6 +14,15 @@ $RECYCLE.BIN/
 *.msm
 *.msp
 
+.idea/
+*.class
+cachedir/
+.settings/
+.classpath
+.project
+*.iml
+
+target/
 # Windows shortcuts
 *.lnk
 
